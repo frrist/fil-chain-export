@@ -1,2 +1,2 @@
 # fil-chain-export
-Utility for exporting the filecoin blockchain from a datastore
+Utility for exporting the filecoin blockchain from a blockstore
